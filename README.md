@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **aidenldnmail@gmail.com**
 
+- 👨‍💻 All of my projects are available at **https://aidensprojects.github.io/**
+
 <p align="left">
 </p>
 
