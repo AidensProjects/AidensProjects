@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">A Passionate Cloud Developer From London, UK</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidensprojects&label=Profile%20views&color=0e75b6&style=flat" alt="aidensprojects" /> </p>
-
 - 🔭 I’m currently working on **CI-CD w/ AWS**
 
 - 🌱 I’m currently learning **AWS, Azure, Linux & More!**
