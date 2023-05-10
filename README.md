@@ -1,10 +1,5 @@
-[![MasterHead](https://i.postimg.cc/4NMS4057/Github-Banner6.png)](url)
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">A Passionate Cloud Developer From London, UK</h3>
-
-- 🔭 I’m currently working on **CI-CD w/ AWS**
-
-- 🌱 I’m currently learning **AWS, Azure, Linux & More!**
+<h3 align="center">A Passionate Developer From London, UK</h3>
 
 - 📫 How to reach me **aidenldnmail@gmail.com**
 
